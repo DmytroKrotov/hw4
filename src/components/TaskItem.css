@@ -1,0 +1,20 @@
+.doneElement{
+    display: flex;
+    justify-content: space-between;
+}
+.taskItemCard{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.taskItemDone{
+    
+    border: 1px solid #33e90e;
+    
+}
+
+.taskItemIsNotDone{
+    border: 1px solid #681102;
+}
